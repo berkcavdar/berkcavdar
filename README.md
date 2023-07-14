@@ -1,9 +1,16 @@
-<h1 align="center">Hi Everyone ! I am Berk Çavdar</h1>
-<h3 align="center">A passionate Back-End Developer.</h3>
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="berkcavdar" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcavdar&label=Profile%20views&color=0e75b6&style=flat" alt="berkcavdar" /> </p>
+<div>
+    <div class="conntainer">
+        <div class="row">
+            <div class="col-sm-6">
+                <h1 align="center">Hi Everyone ! I am Berk Çavdar</h1>
+                <h3 align="center">A passionate Back-End Developer.</h3>
+            </div>
+            <div class="col-sm-6">
+            <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="berkcavdar" />
+            </div>
+        </div>
+    </div>
+</div>
 
 - 👯 I’m looking to collaborate on **.Net Core and C# Projects...**
 
@@ -13,7 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/berk-cavdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berk-cavdar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22086193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22086193" height="30" width="40" /></a>
 <a href="https://instagram.com/berk.cvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berk.cvr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/berkcavdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berkcavdar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkcavdar&show_icons=true&locale=en" alt="berkcavdar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkcavdar&" alt="berkcavdar" /></p>
+
